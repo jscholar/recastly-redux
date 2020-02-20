@@ -1,5 +1,6 @@
 const initialState = {
-  videoList: []
+  videos: [],
+  currentVideo: null
 };
 
 export default initialState;
