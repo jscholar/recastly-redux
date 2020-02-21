@@ -1,10 +1,10 @@
 import { combineReducers } from 'redux';
 import currentVideo from './currentVideo.js';
-import videoList from './videoList.js';
+import videos from './videoList.js';
 
 var rootReducer = combineReducers({
   currentVideo,
-  videoList
+  videos
 });
 
 //TODO: define the root reducer for this app
