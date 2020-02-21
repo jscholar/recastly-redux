@@ -15,7 +15,7 @@ class Search extends React.Component {
     return (
       <div className="search-bar form-inline">
         <input
-        
+
           className="form-control"
           type="text"
 
